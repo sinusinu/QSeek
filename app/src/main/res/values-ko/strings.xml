@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QSeek</string>
+
+    <string name="error_bad_url">사용자 정의 URL이 올바르지 않습니다!</string>
+
+    <string name="title_activity_settings">QSeek 설정</string>
+
+    <string name="settings_settings_header">설정</string>
+    <string name="settings_site">표시할 웹 사이트</string>
+    <string name="settings_custom_url">사용자 정의 URL</string>
+    <string name="settings_custom_url_desc">표시할 웹 사이트의 URL을 입력합니다 (%s를 꼭 넣어주세요)</string>
+    <string name="settings_about_header">정보</string>
+</resources>

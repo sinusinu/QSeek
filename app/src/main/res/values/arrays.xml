@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="site_entries">
+        <item>Custom</item>
+        <item>US: Cambridge</item>
+        <item>US: Merriam-Webster</item>
+        <item>KR: Naver</item>
+        <item>KR: Daum</item>
+    </string-array>
+
+    <string-array name="site_values">
+        <item>custom</item>
+        <item>us_cambridge</item>
+        <item>us_merriam</item>
+        <item>kr_naver</item>
+        <item>kr_daum</item>
+    </string-array>
+</resources>

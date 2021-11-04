@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QSeek</string>
+
+    <string name="error_bad_url">Custom URL is invalid!</string>
+
+    <string name="title_activity_settings">QSeek Settings</string>
+
+    <string name="settings_settings_header">Settings</string>
+    <string name="settings_site">Website to Open</string>
+    <string name="settings_custom_url">Custom URL</string>
+    <string name="settings_custom_url_desc">Set URL of the website (must contain %s)</string>
+    <string name="settings_about_header">About</string>
+    <string name="settings_about" translatable="false">QSeek v%s</string>
+    <string name="settings_about_desc" translatable="false">© 2021 sinu</string>
+</resources>

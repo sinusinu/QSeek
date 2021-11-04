@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/settings_settings_header">
+
+        <ListPreference
+            app:key="site"
+            app:defaultValue="us_cambridge"
+            app:entries="@array/site_entries"
+            app:entryValues="@array/site_values"
+            app:title="@string/settings_site"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="custom_url"
+            app:title="@string/settings_custom_url"
+            app:summary="@string/settings_custom_url_desc" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/settings_about_header">
+
+        <Preference
+            app:key="about"
+            app:title="@string/settings_about"
+            app:summary="@string/settings_about_desc" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

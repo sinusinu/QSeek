@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="site_entries">
+        <item>사용자 정의</item>
+        <item>US: 캠브리지</item>
+        <item>US: 메리암-웹스터</item>
+        <item>KR: 네이버</item>
+        <item>KR: 다음</item>
+    </string-array>
+</resources>
