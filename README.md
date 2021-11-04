@@ -2,7 +2,7 @@
 
 [한국어](README_ko.md)
 
-![Screenshot](images/example.gif)
+![Screenshot](images/example.webp)
 
 QSeek is an Android app that can look up selected word quickly on websites via selection popup.
 

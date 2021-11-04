@@ -1,6 +1,6 @@
 # QSeek
 
-![Screenshot](images/example.gif)
+![Screenshot](images/example.webp)
 
 QSeek은 선택한 텍스트를 사전 등의 웹 서비스에서 바로 검색하는 기능을 제공하는 앱입니다.
 
